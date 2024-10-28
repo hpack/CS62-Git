@@ -1,0 +1,3 @@
+#git ignore file
+myclass.h
+*.txt
